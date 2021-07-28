@@ -6,5 +6,7 @@ Make sure you install the following:
 3.face-recognition
 4.openCV
 ------------------------------------------------------------------------
+Insert any images present in the Images folder or add your own!
+
 GLHF!
 
